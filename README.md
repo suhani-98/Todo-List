@@ -23,4 +23,4 @@ A simple and stylish Todo App built with **HTML**, **CSS**, and **JavaScript**. 
 
 1. Clone this repo:
    ```bash
-   git clone 
+   git clone https://github.com/suhani-98/Todo-List.git
