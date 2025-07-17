@@ -15,6 +15,7 @@ A simple and stylish Todo App built with **HTML**, **CSS**, and **JavaScript**. 
 ---
 
 ## 📸 Screenshots
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/989c3e1e-df2f-4978-90aa-d285641f9c1e" />
 
 ---
 
